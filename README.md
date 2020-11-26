@@ -10,10 +10,7 @@ An algorithm to help knock out your non-major graduation requirements
 │   ├── catalog.json  (full catalog scraped from the BU course catalog)
 │   └── catalog_sorted.json  (all HUB courses as of fall 2020 - 100-level and up)
 │
-├── sample\ outputs
-│   └── subset-whowe-courses
-│
-├── search.js  (catalog in js for easy map/reduce/filter-ing)
+├── search.js  (catalog in JavaScript for easy map/reduce/filter-ing)
 │
 └── set_cover.py (the actual algorithm)
 ```
