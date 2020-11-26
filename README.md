@@ -4,17 +4,18 @@ An algorithm to help knock out your non-major graduation requirements
 > "In the Hub, students can pursue their interests by taking courses across BU’s 10 undergraduate schools and colleges as they fulfill their general education requirements. How students experience learning in the Hub is up to them–the program is designed to integrate with a student’s major studies while encouraging exploration. Students can select from a wide range of courses that carry Hub units, both in and outside of their major."
 -https://www.bu.edu/hub/hub-courses/
 
-```shell
+```sh
 ├── README.md
 ├── catalog
-│   ├── catalog.json
-│   ├── catalog_sorted.json
-│   ├── set.json
-│   └── set_everything.json
+│   ├── catalog.json  (full catalog scraped from the BU course catalog)
+│   └── catalog_sorted.json  (all HUB courses as of fall 2020 - 100-level and up)
+│
 ├── sample\ outputs
 │   └── subset-whowe-courses
-├── search.js
-└── set_cover.py
+│
+├── search.js  (catalog in js for easy map/reduce/filter-ing)
+│
+└── set_cover.py (the actual algorithm)
 ```
 
 BU students know how annoying the HUB is, and how confusing it is to ensure they aren't forgetting any requirements, as even one overlooked unit necessitates a whole extra 4 credit class.
@@ -39,8 +40,34 @@ Often, there is more than one most optimal solution, and we can run the algorith
 
 Social Inquiry and Scientific Inquiry are not both required—only one of them.  Thankfully this is easily fixable with a quick preprocessing step, which combines the two into a "Social/Scientific Inquiry II" as a single unit.  Managing doubled requirements, however, does not have such a simple reduction, and I took the naive (but not unbearably inefficient) approach of rerunning the algorithm until it finds a selection with the desired multiplicity of HUB units (for example "Writing-Intensive Course" is needed twice).
 
+```json
+Number of courses offering each unit
+------------------------------------
+   5 First-Year Writing Seminar
+  11 Writing, Research, and Inquiry
+  65 Scientific Inquiry II
+  73 Quantitative Reasoning I
+  77 Scientific Inquiry I
+  82 Quantitative Reasoning II
+  84 Philosophical Inquiry and Life's Meanings
+  97 Digital/Multimedia Expression
+ 110 Social Inquiry II
+ 132 Creativity/Innovation
+ 134 Social Inquiry I
+ 146 Ethical Reasoning
+ 158 Oral and/or Signed Communication
+ 167 Teamwork/Collaboration
+ 183 Writing-Intensive Course
+ 209 The Individual in Community
+ 223 Research and Information Literacy
+ 273 Historical Consciousness
+ 286 Aesthetic Exploration
+ 296 Global Citizenship and Intercultural Literacy
+ 320 Critical Thinking
+```
+
 ### Usage
 
-```shell
+```sh
 python set_cover.py catalog.json
 ```
