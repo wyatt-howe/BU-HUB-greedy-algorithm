@@ -1,4 +1,4 @@
-# BU HUB greedy algorithm
+# Greedy Approach to the BU HUB
 An algorithm to help knock out your non-major graduation requirements
 
 > "In the Hub, students can pursue their interests by taking courses across BU’s 10 undergraduate schools and colleges as they fulfill their general education requirements. How students experience learning in the Hub is up to them–the program is designed to integrate with a student’s major studies while encouraging exploration. Students can select from a wide range of courses that carry Hub units, both in and outside of their major."
