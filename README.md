@@ -4,7 +4,7 @@ An algorithm to help knock out your non-major graduation requirements
 > "In the Hub, students can pursue their interests by taking courses across BU’s 10 undergraduate schools and colleges as they fulfill their general education requirements. How students experience learning in the Hub is up to them–the program is designed to integrate with a student’s major studies while encouraging exploration. Students can select from a wide range of courses that carry Hub units, both in and outside of their major."
 -https://www.bu.edu/hub/hub-courses/
 
-```sh
+```
 ├── README.md
 ├── catalog
 │   ├── catalog.json  (full catalog scraped from the BU course catalog)
@@ -68,6 +68,8 @@ Number of courses offering each unit
 
 ### Usage
 
-```sh
+Run `set_cover.py` in your favorite python interpreter.  You will want to edit the file and fill in which HUB units are already completed.
+
+<!-- ```sh
 python set_cover.py catalog.json
-```
+``` -->
