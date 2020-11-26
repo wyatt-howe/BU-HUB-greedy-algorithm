@@ -68,7 +68,7 @@ Number of courses offering each unit
 
 ### Usage
 
-Run `set_cover.py` in your favorite python interpreter.  You will want to edit the file and fill in which HUB units are already completed.
+Run (`set_cover.py`)[https://github.com/wyatt-howe/BU-HUB-greedy-algorithm/blob/master/set_cover.py#L81-L114] in your favorite python interpreter.  You will want to edit the file and fill in which HUB units are already completed.
 
 <!-- ```sh
 python set_cover.py catalog.json
