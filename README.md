@@ -1,7 +1,7 @@
 # BU HUB greedy algorithm
 A greedy approach to the BU HUB requirements
 
-> "In the Hub, students can pursue their interests by taking courses across BU’s 10 undergraduate schools and colleges as they fulfill their general education requirements. How students experience learning in the Hub is up to them–the program is designed to integrate with a student’s major studies while encouraging exploration. Students can select from a wide range of courses that carry Hub units, both in and outside of their major."
+> "The BU Hub is Boston University’s University-wide general education program that emphasizes working across disciplines to prepare for a complex and diverse world. Students can explore a variety of courses and innovative learning experiences while developing six essential capacities and fulfilling Hub requirements. Explore these six capacities, Hub learning outcomes, and how the Hub works below."
 -https://www.bu.edu/hub/hub-courses/
 
 ```
