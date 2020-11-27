@@ -289,7 +289,7 @@
     "title": "The Pluto Saga: Interactions Between Science, Society, Art and Religion",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Critical Thinking"
     ],
@@ -355,7 +355,7 @@
     "credits": "4 credits.",
     "units": [
       "The Individual in Community",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "How can we fulfill Thomas Jefferson's promise for public schools \"which shall reach every description of our citizens?\" The course examines significant eras, debates, and struggles for equality in U.S. education, with a particular focus on current policies in Boston. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, The Individual in Community, Research and Information Literacy."
@@ -366,7 +366,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning I",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "This seminar will focus on the theories and applications of social network analysis to study culture. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Quantitative Reasoning I."
   },
@@ -565,7 +565,7 @@
     "title": "Introduction to Cellular and Molecular Biology",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Ethical Reasoning",
       "Teamwork/Collaboration",
       "Writing-Intensive Course"
@@ -577,7 +577,7 @@
     "title": "Integrated Science II",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Laboratory-discussion course. Introduction to the evolution of stars, the universe, and planetary systems. Physical description of the planet Earth. Introduction to ecology, environmental science, evolution of life, organisms, and genetics. Students engage in laboratory experiments, group work, and computer simulations. Effective Fall 2019, this course fulfills a single unit in the following BU Hub area: Scientific Inquiry II."
   },
@@ -619,7 +619,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "This seminar will critically examine the family, marriage, and gender by asking several basic questions: What is family? What is marriage? Why do family and marriage matter to individuals and to society? What role does or should law have in supporting and regulating families and marriage? In defining parenthood? How do new technologies that provide new pathways to parenthood (assisted reproductive technology, or \"ART\") and new forms of control over reproduction (such as genetic testing and screening) pose ethical and legal challenges and how should law address those challenges? Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Social Inquiry II, Critical Thinking."
@@ -630,7 +630,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "In this seminar, students explore the U.S. health care system and those of six other nations, analyzing policy challenges through team projects that evaluate evidence-based reform strategies, and take into account economic, social, political, managerial, ethical, legal, and regulatory factors. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Global Citizenship and Intercultural Literacy, Research and Information Literacy."
@@ -781,7 +781,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "This course introduces students to economic analysis through the study of housing policy. The course covers both microeconomic issues related to housing affordability and macroeconomic issues related to the stabilization of the housing market and the Great Recession. Throughout, the course will teach students economic principles and how use data to assess economic arguments. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Quantitative Reasoning II, Research and Information Literacy."
@@ -1024,7 +1024,7 @@
     "title": "Physics 2",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Critical Thinking"
     ],
@@ -1111,7 +1111,7 @@
     "title": "Biology 2",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Critical Thinking",
       "Teamwork/Collaboration"
@@ -1197,7 +1197,7 @@
     "title": "Advanced General Chemistry with Quantitative Analysis Lab 2",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Critical Thinking"
     ],
@@ -1508,7 +1508,7 @@
     "title": "Intensive General Chemistry with Quantitative Analysis Lab 2",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing, Research, and Inquiry",
       "Critical Thinking",
       "Research and Information Literacy"
@@ -1810,7 +1810,7 @@
     "title": "Biology 2 with Integrated Science Experience 1 Lab",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Critical Thinking",
       "Writing-Intensive Course"
@@ -1822,7 +1822,7 @@
     "title": "Introduction to Cell and Molecular Biology with Integrated Science Experience 1 Lab",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Ethical Reasoning",
       "Writing-Intensive Course"
     ],
@@ -2004,7 +2004,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Students may receive credit for not more than one of the following courses: CAS MA 121 or CAS MA 123. Differentiation and integration of functions of one variable. Same topics as CAS MA 123, but with less emphasis on mathematical generality and more on applications. Especially suitable for students concentrating in the biological and social sciences. Carries MCS Divisional credit in CAS. Effective Fall 2018, this course fulfills a single unit in the following BU Hub area: Quantitative Reasoning II. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Social Inquiry II, Critical Thinking."
@@ -2044,7 +2044,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Students may receive credit for not more than one of the following courses: CAS MA 122, MA 124, or MA 129. Continuation of CAS MA 121. Review of univariate calculus, calculus of the elementary transcendental functions, elementary differential equations, elementary multivariate calculus. Applications to exponential growth, optimization, equilibrium, and dynamic modeling problems. Carries MCS divisional credit in CAS. Effective Fall 2018, this course fulfills a single unit in the following BU Hub area: Quantitative Reasoning II. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Social Inquiry II, Critical Thinking."
@@ -2064,7 +2064,7 @@
     "title": "Calculus II",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Critical Thinking"
     ],
@@ -2626,7 +2626,7 @@
     "title": "Principles of Organic and Biochemistry",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Introduction to organic and biochemistry: Classes of organic compounds and biomolecules; nomenclature, physical properties and reactions of organic molecules; techniques for synthesizing, isolating and characterizing molecules; structure, reactivity and properties of carbohydrates, lipids and amino acids; structure and function of proteins, nucleic acids and membranes; and the biochemical pathways associated with sugar and lipid metabolism. Three hours lecture, one hour discussion, one hour pre-lab lecture, and three hours lab. Carries natural science divisional credit (with lab) in CAS. Effective Fall 2019, this course fulfills a single unit in the following BU Hub area: Scientific Inquiry II."
   },
@@ -2635,7 +2635,7 @@
     "title": "Principles of Organic Chemistry",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Structure, stereochemistry, functional groups, and reactions of carbon- containing compounds; emphasis on compounds and reactions of biochemical interest. Three hours lecture, one hour discussion, one hour prelab lecture, and three hours lab. Effective Spring 2020, this course fulfills a single unit in the following BU Hub area: Scientific Inquiry II."
   },
@@ -2718,7 +2718,7 @@
     "title": "Intensive General and Quantitative Analytical Chemistry 2",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing, Research, and Inquiry",
       "Critical Thinking",
       "Research and Information Literacy"
@@ -2949,7 +2949,7 @@
     "title": "Introduction to Nutrition",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Oral and/or Signed Communication"
     ],
     "desc": "This course focuses on the components of a healthy, well-balanced diet to meet nutritional needs and avoid deficiencies and excesses. The basic concepts discussed will include: MyPlate, food labeling, recommended nutrient intakes for all age and gender groups, weight management, heart disease, diabetes, cancer, and lifecycle nutrition. Special emphasis will be on nutrition and disease prevention and applying the nutrition knowledge learned to everyday living. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Oral and/or Signed Communication."
@@ -2979,7 +2979,7 @@
     "title": "Intermediate Microeconomic Analysis",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Determination of commodity prices and factor prices under the differing market conditions of competition and monopoly. Effective Fall 2019, this course fulfills a single unit in the following BU Hub areas: Social Inquiry II, Critical Thinking."
@@ -3134,7 +3134,7 @@
     "title": "Human Ecology/Global Ecology",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "What is the fate of the biosphere and our species? Can humans reconcile economic and technological growth with ecological sustainability? This course examines the impact of one species, Homo sapiens, on the ecosystems of the biosphere, seeking answers to these broad questions. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Teamwork/Collaboration."
@@ -3144,7 +3144,7 @@
     "title": "Intermediate Macroeconomic Analysis",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Determination of aggregate income and employment. Analysis of fiscal and monetary policy. Inflation and income policy. Problems of the open economy. Effective Fall 2019, this course fulfills a single unit in the following BU Hub areas: Social Inquiry II, Critical Thinking."
@@ -3425,7 +3425,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "This lecture and discussion-driven course uses ethnographic case materials and active learning strategies to introduce students to socio-cultural anthropological modes of understanding and analyzing health-related experiences and institutions, including political and ethical dimensions of illness and suffering around the globe. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Research and Information Literacy."
@@ -3505,7 +3505,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "Builds on CC 112, considering the major events and processes that have shaped the modern world, and looks at the roots of these changes in the works studied in first year Core. Ideas of human rights and self- determination, the relation of the individual and society, and the relation of power and economics to society. Readings are drawn from classic works of social and political theory: Thucydides, Ibn Khaldun, Hobbes, Rousseau, Tocqueville, Weber, Adam Smith, Marx, Durkheim, and Malinowski. The course is writing intensive. Carries social science divisional credit in CAS. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Social Inquiry II, Writing-Intensive Course."
@@ -3550,7 +3550,7 @@
     "title": "Human Physiology",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking",
       "Teamwork/Collaboration",
       "Writing-Intensive Course"
@@ -3562,7 +3562,7 @@
     "title": "Introduction to Experimental Design",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning I"
     ],
     "desc": "Introduction to the logic and processes involved in descriptive and inferential statistics for psychology. Topics include statistical inference, significance, t-tests, ANOVAs, correlation, regression, and statistical software analysis. This is a hybrid class - class time is reserved for hands on activities. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Quantitative Reasoning I."
@@ -3780,7 +3780,7 @@
     "title": "Core Natural Science II: Science, Reality, and the Modern World",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Critical Thinking"
     ],
@@ -3791,7 +3791,7 @@
     "title": "Intensive Organic Chemistry 2",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Oral and/or Signed Communication",
       "Research and Information Literacy",
       "Creativity/Innovation"
@@ -3803,7 +3803,7 @@
     "title": "General Physics 2",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Critical Thinking",
       "Teamwork/Collaboration"
@@ -4098,7 +4098,7 @@
     "title": "Organic Chemistry with Qualitative Analysis",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning I",
       "Research and Information Literacy"
     ],
@@ -4274,7 +4274,7 @@
     "title": "Cell Biology with Integrated Science Experience II Lab",
     "credits": "5 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Teamwork/Collaboration",
       "Writing-Intensive Course"
@@ -4338,7 +4338,7 @@
     "title": "Organic Chemistry Laboratory with Qualitative Analysis",
     "credits": "2 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning I",
       "Research and Information Literacy"
     ],
@@ -4410,7 +4410,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "How did \"society\" emerge as a distinctive object of political engineering, normative discourse, and social scientific inquiry? What economic transformations helped shape theories of justice and social contract? Careful readings of Western social, political and economic thinkers between 1600-1900. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Writing-Intensive Course, Historical Consciousness, Social Inquiry II."
@@ -4439,7 +4439,7 @@
     "credits": "4 credits.",
     "units": [
       "Philosophical Inquiry and Life's Meanings",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Confronting the legacy of Enlightenment philosophy in the modern era, students encounter the postmodern psychological, political, and economic theories that expose the paradoxes behind freedom and individual rights ideologies framing slavery, colonialism, ethno-nationalism, capitalist exploitation, sexism, and institutional racism. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Philosophical Inquiry and Life's Meanings, Social Inquiry II, Critical Thinking."
@@ -4709,7 +4709,7 @@
     "title": "Crime and Justice",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "This course examines sociological research on crime, the social context of violence, and criminal justice policy in the United States. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Research and Information Literacy."
@@ -4806,7 +4806,7 @@
     "title": "Inorganic Chemistry",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy",
       "Writing-Intensive Course"
     ],
@@ -4993,7 +4993,7 @@
     "credits": "4 credits.",
     "units": [
       "The Individual in Community",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "An introduction to the social construction of sex and gender with a focus on the economic, political, social, and cultural forces that shape gender relations. Examines gender as a social structure that patterns institutional inequalities and everyday interactions on society. Carries social sciences divisional credit in CAS. Also offered as CAS WS 241. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, The Individual in Community, Teamwork/Collaboration."
@@ -5498,7 +5498,7 @@
     "title": "Principles of Physics 2",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Critical Thinking",
       "Teamwork/Collaboration"
@@ -6300,7 +6300,7 @@
     "title": "Earth's Rocky Materials",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning I"
     ],
     "desc": "Utilizing an Earth Systems approach, this course begins with the mineral phases of the core and mantle. Crustal mineralogy and petrology follow, examining how minerals and the rocks that contain them are produced by magmatic, metamorphic, hypothermal, and surface processes. Weekly two-hour labs and a required field trip. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Quantitative Reasoning I."
@@ -6373,7 +6373,7 @@
     "title": "Phonetics & Phonology: Introduction to Sound Systems",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning I",
       "Critical Thinking"
     ],
@@ -6426,7 +6426,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Methods and principles of comparative vertebrate zoology. Phylogeny, natural history, adaptation, and taxonomy. Laboratory emphasis on correlation among structural, physiological, and evolutionary features of selected vertebrates by both dissection and experimentation. Field trips. Two hours lecture, six hours lab. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Scientific Inquiry II, Critical Thinking."
@@ -6436,7 +6436,7 @@
     "title": "Remote Sensing of Environment",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Digital/Multimedia Expression",
       "Teamwork/Collaboration"
     ],
@@ -6447,7 +6447,7 @@
     "title": "Congress and Its Critics",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "The United States Congress is the most studied branch of U.S. Government, and central to our understanding of policy, elections, and representative democracy. The purpose of this course is to examine two fundamental questions: (1) what do Members of Congress do and why and (2) how do the individual and collective actions of Members of Congress explain national policy? Throughout, we will debate the common criticism that \"Congress is broken\" and consider its effectiveness as an institution. Effective Spring 2020, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Critical Thinking."
@@ -6458,7 +6458,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "68.5 million people were displaced from their homes by wars and persecution by the end of 2017. What disciplines and methodologies will help us understand this unprecedented global crisis? A premise of this course is that any understanding of the contemporary refugee crisis requires interdisciplinary study, and the most effective solutions are developed by teams like the interdisciplinary groups you will form in this class. The refugee crisis will provide a lens through which to understand nation/states, culture, identity, technology, trauma, and human resilience. Effective Spring 2020, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Global Citizenship and Intercultural Literacy, Teamwork/Collaboration."
@@ -6542,7 +6542,7 @@
     "title": "Evolutionary Ecology",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Digital/Multimedia Expression"
     ],
@@ -6594,7 +6594,7 @@
     "title": "Environmentally Sustainable Development",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Traces the emergence of sustainable development as the defining environmental challenge of our times. Surveys and evaluates policies for balancing ecological sustainability and economic development in various parts of the world and at the global level. Also offered as CAS IR 304. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Research and Information Literacy."
@@ -6604,7 +6604,7 @@
     "title": "Environmentally Sustainable Development",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Traces the emergence of and current issues in environmentally sustainable development policy and practice. Surveys and evaluates approaches to balancing ecological sustainability, economic development, and social justice in various parts of the world and at the global level. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Research and Information Literacy."
@@ -6615,7 +6615,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Introduction to the judicial process. Topics include the role of lawyers and judges, the structure of the court system, juries, and legal reasoning. Primarily intended for students who have little or no exposure to law courses. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Critical Thinking."
@@ -6737,7 +6737,7 @@
     "title": "Biology of Global Change",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Ethical Reasoning",
       "Research and Information Literacy"
     ],
@@ -6749,7 +6749,7 @@
     "credits": "4 credits.",
     "units": [
       "The Individual in Community",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "A comparison between nineteenth- and twentieth-century neighborhoods, connecting changes in everyday life to larger demographic, economic, physical, and political changes affecting the whole city and immediate suburbs. Includes tours of several Boston neighborhoods and archival research using neighborhood newspapers. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, The Individual in Community, Teamwork/Collaboration."
@@ -6800,7 +6800,7 @@
     "title": "Archaeological Science",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning I",
       "Critical Thinking",
       "Research and Information Literacy"
@@ -6813,7 +6813,7 @@
     "credits": "4 credits.",
     "units": [
       "Digital/Multimedia Expression",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "This is a discussion-based course taught in Portuguese. It helps you develop effective reading, speaking and writing strategies needed to interpret authentic written and audio-visual sources, exploring different aspects of professional life in the Brazilian and the Portuguese-speaking world. Effective Spring 2020, this course fulfills a single unit in each of the following BU Hub areas: Digital/Multimedia Expression, Social Inquiry II, Teamwork/Collaboration."
@@ -6823,7 +6823,7 @@
     "title": "Public Opinion in American Politics",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Public opinion is a central component of democratic politics; in this course we study public opinion in the United States. In addition to this substantive focus, the course is intended to foster the development of two skills: critical reading and rigorous, careful and clear writing. Effective Fall 2018, this course fulfills a single unit in the following BU Hub area: Social Inquiry I."
   },
@@ -6893,7 +6893,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Combining research from history, political science, sociology, and economics, this course examines the role of race and ethnicity in shaping American politics and policy. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Critical Thinking."
@@ -6904,7 +6904,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Combining research from history, political science, sociology, and economics, this course examines the role of race and ethnicity in shaping American politics and policy. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Critical Thinking."
@@ -6915,7 +6915,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "This is an interdisciplinary introduction to concepts and issues entailed in critically evaluating Australian social policy as a field of academic study and a site of contemporary action, including policies for health, human rights, women and work, and Indigenous Australians. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Global Citizenship and Intercultural Literacy, Social Inquiry II, Critical Thinking."
@@ -6956,7 +6956,7 @@
     "title": "Intermediate Environmental Analysis and Policy",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Introduction to economic and environmental theory critical to the formulation and evaluation of environmental resource policy. This theory is applied to real- world analysis of climate change, population growth, oil supplies, energy use, and globalization."
@@ -7087,7 +7087,7 @@
     "title": "Planetary Physics",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Digital/Multimedia Expression",
       "Teamwork/Collaboration"
     ],
@@ -7098,7 +7098,7 @@
     "title": "General Microbiology",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration",
       "Writing-Intensive Course"
     ],
@@ -7171,7 +7171,7 @@
     "title": "Stellar and Galactic Astrophysics",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Creativity/Innovation"
     ],
@@ -7214,7 +7214,7 @@
     "title": "Waves and Modern Physics",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Waves and physical optics, relativistic mechanics, experimental foundations of quantum mechanics, atomic structure, physics of molecules and solids, atomic nuclei and elementary particles. Along with CAS PY 211, 212, PY 313 completes a three-semester introductory sequence primarily intended for students of engineering. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Critical Thinking."
@@ -7225,7 +7225,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "HBO's television series The Wire is used to explore politics and policy. A number of interdisciplinary topics are covered, including the war on drugs, urban elections, bureaucracy, rational choice theory, and the decline of American cities. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Teamwork/Collaboration."
@@ -7236,7 +7236,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Presents the sociological approach to the study of production, distribution, consumption and markets, emphasizing the impact of norms, power, social structure, and institutions on the economy. Compares classic and contemporary approaches to the economy by the social science disciplines. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Research and Information Literacy."
@@ -7361,7 +7361,7 @@
     "title": "Systems Physiology",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking",
       "Teamwork/Collaboration",
       "Writing-Intensive Course"
@@ -7395,7 +7395,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "What is Europe's \"problem\" with migrants? Are old forms of racism and xenophobia returning? Or are contemporary Islamophobia and anti-Semitism new modes of exclusion? What and where is Europe anyway? And what exactly might it mean to be European today? Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Global Citizenship and Intercultural Literacy, Writing-Intensive Course."
@@ -7477,7 +7477,7 @@
     "title": "Sociology of Childhood and Youth",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Uses in-depth studies centered on children and youth to examine the socially stratified and fragmented experiences of young people historically and contemporarily. This course focuses on the social construction of youth and the cultural and institutional forces that shape the social experiences of youth and our knowledge of them. Effective Fall 2019, this course fulfills a single unit in the following BU Hub areas: Social Inquiry II, Research and Information Literacy."
@@ -7560,7 +7560,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "This course traces the sociology of politics from ancient times to modern era. Analyzes U.S. & global political shifts. Topics include: political cultures, constitutions and laws; political authority; political parties; revolutions and war; mass media, and politics of violence. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Social Inquiry II, Research and Information Literacy."
@@ -7582,7 +7582,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Theoretical and empirical examination of the structural changes associated with the process of economic development; special reference to poor regions and countries; rigorous analysis of criteria for policy judgments in developing planning and programming. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Social Inquiry II."
   },
@@ -7663,7 +7663,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Examines the economic structure, institutional evolution, and political configuration in the countries of the Middle East and North Africa. Issues addressed include legacies of the colonial era, the impact of oil, and the problem of industrialization in resource-based economies. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Historical Consciousness."
   },
@@ -7683,7 +7683,7 @@
     "credits": "4 credits.",
     "units": [
       "Digital/Multimedia Expression",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Introduction to the political, social, and economic history of Rome from the foundation of the city through the fall of the western empire. All texts in translation. Cannot be taken for credit in addition to CAS CL 222. Carries humanities divisional credit in CAS. Effective Spring 2019, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Social Inquiry II, Critical Thinking. Effective Spring 2021, this course fulfills a single unit in each of the following BU Hub areas: Digital/Multimedia Expression, Social Inquiry II, Critical Thinking."
@@ -7757,7 +7757,7 @@
     "title": "Behavioral Economics",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Introduction to a new field in economics that challenges the traditional model of rational decision-making and uses research in psychology to construct alternative models. Covers the theory of choice under certainty, uncertainty, and temptation; biases in judgment; social preferences. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Critical Thinking."
@@ -7768,7 +7768,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "Complex ways in which market exchange impacts the practice of medicine, the delivery of patient care, and the medical profession; commodification of bodies and emotions; theoretical discussion of the market and overview of US health care system Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Teamwork/Collaboration."
@@ -7866,7 +7866,7 @@
     "title": "Principles of Neuroscience",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Introduces fundamentals of the nervous system at descriptive scales ranging from individual cells to the entire brain. Topics include biophysics of excitable membranes, synaptic transmission, sensory and motor systems, learning and memory, plasticity, neuromodulation, and the biological basis of complex behaviors. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Critical Thinking."
@@ -7877,7 +7877,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "Meets with CAS IR 302. Electoral campaigns in Latin America, Europe, and Asia. Changes in campaigns over time; role of international political consultants; influence of party systems, electoral systems, campaign finance regulation, vote buying, and mass media; campaign effects on voting behavior and public opinion. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Global Citizenship and Intercultural Literacy, Social Inquiry II, Teamwork/Collaboration."
@@ -8056,7 +8056,7 @@
     "title": "From Conception to Death: The Evolution of Human Life History",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Life History is the story of the human lifespan. This course uses an evolutionary and comparative framework to understand fundamental features of the human life course, such as birth, growth, sexual maturity, and death. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Research and Information Literacy."
@@ -8077,7 +8077,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "Provides learning and skills at the interface between international business, international relations, and other disciplines, through studying the system of EU \"Competences\" that provides comprehensive rules of conduct for firms. Includes Briefings by officials from EU Institutions, designed to build/test research/teamwork skills. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Global Citizenship and Intercultural Literacy, Teamwork/Collaboration."
@@ -8199,7 +8199,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Structure of the American economy. The theory of imperfect competition. Topics include firm concentration and conglomeration, consumer ignorance and market failure, and advertising and technological change as part of market performance. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Social Inquiry II, Critical Thinking."
@@ -8251,7 +8251,7 @@
     "title": "Human Population Genetics",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Research and Information Literacy"
     ],
@@ -8262,7 +8262,7 @@
     "title": "Human Population Genetics",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Research and Information Literacy"
     ],
@@ -8284,7 +8284,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "This course examines the causes and consequences of political violence around the world. Topics include civil war, electoral violence, riots, protests, and government repression. Particular emphasis on Africa and South/Southeast Asia. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Global Citizenship and Intercultural Literacy, Critical Thinking."
@@ -8348,7 +8348,7 @@
     "title": "The Ape Within: Great Apes and the Evolution of Human Behavior",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning I",
       "Research and Information Literacy"
     ],
@@ -8360,7 +8360,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "Provides learning and skills at the interface between international business, international relations, and other disciplines, through studying the system of EU \"Competences\" that provides comprehensive rules of conduct for firms. Includes Briefings by officials from EU Institutions, designed to build/test research/teamwork skills. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Global Citizenship and Intercultural Literacy, Teamwork/Collaboration."
@@ -8527,7 +8527,7 @@
     "title": "Exercise Physiology",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "What are the limits of human performance? Why can't we run 25 miles at the same speed we can sprint 40 yards? How do common diseases impact tolerance to physical activity? In exercise physiology we will discuss these questions and more, eventually uncovering principles that determine how our bodies respond to various forms of stress (like exercise). Through hands-on group experiments and collaborative projects in laboratory and lecture, we will also explore how scientists have come to these conclusions through the implementation of the scientific method in a research setting. Effective Fall 2019, this course fulfills a single unit in the following BU Hub areas: Scientific Inquiry II, Teamwork/Collaboration."
@@ -8547,7 +8547,7 @@
     "title": "Monetary and Banking Theory",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "After a brief survey of the development of modern monetary theory, concentration on selected theoretical aspects of monetary economics and financial organization covered in CAS EC 341. Additional emphasis on capital theory and macroeconomic models. Research paper required. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Research and Information Literacy."
@@ -8783,7 +8783,7 @@
     "credits": "4 credits.",
     "units": [
       "The Individual in Community",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "The psycholinguistics and sociolinguistics of life with two languages. Topics include bilingual language use, processing, acquisition, organization; effects of bilingualism on cognition and development; the bilingual brain; the bilingual speech community; bilingual education; bilingualism in the media and public eye. Carries humanities divisional studies credit in CAS. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, The Individual in Community, Critical Thinking."
@@ -8909,7 +8909,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "This interactive course introduces the core legal and ethical issues affecting how journalists, including the student press, gather, verify and communicate news. This course offers an exciting deep-dive into the key concepts affecting newsgathering and dissemination today.Students will discover the underpinnings of a free press as well as practical tools to use when confronted with government efforts to block legitimate newsgathering. Students will gain a working knowledge of how and why the First Amendment protects them as they gather, verify and disseminate the news. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Research and Information Literacy."
@@ -8919,7 +8919,7 @@
     "title": "The Psychology of Decision Making: Implications for Business and Public Policy",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "We provide an introduction to how individuals make decisions, applying the tools of psychology and economics. We will learn to identify common mistakes and biases. Students will have the opportunity to evaluate their own decision- making ability and learn how to make improved decisions. We link each aspect of decision-making studied to current personal finance decision, business problem & public policy issue. This course will improve negotiation ability and prepare students to use social science data to support decisions. The course consists of cases, discussions, lectures & project. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Critical Thinking."
@@ -9023,7 +9023,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "This course traces the historical and intellectual developments that led to the formulation of modern physics. It introduces students to special relativity, quantum mechanics, classical and quantum statistics, emphasizing scientific inquiry and critical thinking. Labs are a required course component. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Scientific Inquiry II, Critical Thinking."
@@ -9033,7 +9033,7 @@
     "title": "Environmental History of Africa",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Global Citizenship and Intercultural Literacy",
       "Research and Information Literacy"
     ],
@@ -9205,7 +9205,7 @@
     "title": "Physical Chemistry Laboratory",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy",
       "Writing-Intensive Course"
     ],
@@ -9267,7 +9267,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Application of current theories of labor supply and demand, wages, education and experience, immigration, labor efficiency, discrimination, and unemployment. Appraisal of the effects of government policies on labor markets. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Social Inquiry II."
   },
@@ -9310,7 +9310,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Understanding an individual's decision to invest in education, the effects of education on monetary and non-monetary outcomes, and policies impacting K-12 education. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Social Inquiry II."
   },
@@ -9361,7 +9361,7 @@
     "title": "British Macroeconomic Policy",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "This course covers central theoretical concepts and models aimed at understanding key topics in macroeconomics. At the end of this course you will be able to master fundamental macroeconomic concepts as well as understand key macroeconomic processes in Europe. Effective Fall 2020, this course fulfills a single unit in the following BU Hub area: Social Inquiry II."
   },
@@ -9402,7 +9402,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Examines mutually transformative relations between human societies and their environments. Shows how social constructions of environment, nature, and culture vary cross-culturally. Topics include: political ecology, environmental conservation, agriculture, climate, bioprospecting, relations with other animals, pollution. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Social Inquiry II."
   },
@@ -9432,7 +9432,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Surveys the economic history of African Americans within the context of the development of the American and global economies. Topics include the economics of slavery; race and industrialization; the Great Migration; anti- discrimination legislation; and the historical origins of contemporary racial inequalities. Also offered as CAS EC 363. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Social Inquiry II."
   },
@@ -9442,7 +9442,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "(Meets with CAS AA 363.) Surveys the economic history of African Americans within the context of the long run development of the American and global economies. Topics include basic features of American economic growth in the long run; the economics of slavery; the Civil War and the aftermath of slavery; the evolution of racial inequality from the end of the Civil War to the present. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Social Inquiry II."
   },
@@ -9494,7 +9494,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "An economic analysis of UK government policy relating to economic performance. It explores in particular market-oriented economic reform since the 1980s designed to reverse long-term economic decline in the United Kingdom relative to the EU and USA. These reforms include privatisation, deregulation, labour market reform, trade, UK economic relations with the EU, and Brexit. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Global Citizenship and Intercultural Literacy."
   },
@@ -9599,7 +9599,7 @@
     "credits": "4 credits.",
     "units": [
       "The Individual in Community",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "This course will consider the value of contemporary theories and research in social psychology for understanding and addressing a number of current issues facing Britain today: violence and social disorder, immigration and asylum seeking; attitudes to gender and sexual diversity. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, The Individual in Community, Teamwork/Collaboration."
@@ -9631,7 +9631,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Basic principles of public finance; consideration of classical and modern attitudes toward government revenues and expenditures. Survey of problems related to public debt and budget making. Evaluation of fiscal policy as an instrument of control. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Social Inquiry II."
   },
@@ -9879,7 +9879,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Analysis of the history of American foreign policy from the perspective of the changing world and regional international systems; emphasis on the effect of these systems and the impact of America on the creation and operation of international systems. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Social Inquiry II."
   },
@@ -9964,7 +9964,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Examines daily life in China and Taiwan, tracing how opposed economic and political paths transformed a common tradition. Topics include capitalism and socialism; politics and social control; dissidence; gender relations; religion, arts, and literature; and pollution. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Global Citizenship and Intercultural Literacy, Research and Information Literacy."
@@ -10194,7 +10194,7 @@
     "title": "Fundamentals of Biology 3",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking",
       "Teamwork/Collaboration",
       "Writing-Intensive Course"
@@ -10246,7 +10246,7 @@
     "title": "Economics of Sports",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Applies the tools of microeconomic theory and empirical methods to study such questions as the optimal design of sports leagues, the impact of new stadiums on a local economy, fan (customer) discrimination, and salary differentials between players. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Critical Thinking."
@@ -10256,7 +10256,7 @@
     "title": "Foundations of Strategic Studies",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking",
       "Writing-Intensive Course"
     ],
@@ -10341,7 +10341,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning I",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Concepts of health economics applicable to both developed and developing countries. Topics include effect of health on the economy, effect of health care on health, hospital behavior, health work-force supply, and demand for health care. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning I, Social Inquiry II."
   },
@@ -10436,7 +10436,7 @@
     "title": "International Trade",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Why do countries trade with each other? Who gains and who loses from international trade? What effect does trade have on consumer prices, wages, profits, income inequality, economic growth, and the environment? What are the costs and benefits of tariffs and other trade barriers? How have NAFTA and the European Union affected trade patterns, income distribution, and economic development? What effects do capital flows and migration have on sending and receiving countries? This course will use economic analysis to discuss these and other current international economic polies. Effective Fall 2020, this course fulfills a single unit in the following BU Hub area: Social Inquiry II."
   },
@@ -10488,7 +10488,7 @@
     "title": "International Macroeconomics",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "This course analyzes what determines exchange rates, including interest rates, fiscal and monetary policies, GDP growth, inflation, and other factors. We will examine the causes of exchange rate crises, the functioning of fixed and flexible exchange rate systems, the effect of the worldwide saving imbalance, the crisis in the euro zone, as well as other current topics. We will also study hedging and speculating in foreign exchange markets by using futures and forward contracts and options. Effective Fall 2020, this course fulfills a single unit in the following BU Hub area: Social Inquiry II."
   },
@@ -10528,7 +10528,7 @@
     "credits": "4 credits.",
     "units": [
       "Aesthetic Exploration",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "This course explores the shared cultures of the sciences and literature from the Enlightenment through the Victorian eras in Britain and Europe. We combine the history of science, the social history of literature and related arts, and sociology of knowledge. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Aesthetic Exploration, Social Inquiry II."
   },
@@ -10548,7 +10548,7 @@
     "title": "Environmental History of Africa",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Global Citizenship and Intercultural Literacy",
       "Research and Information Literacy"
     ],
@@ -10581,7 +10581,7 @@
     "title": "Sustainability Science: Earth House Practicum 1",
     "credits": "2 credits.",
     "units": [
-      "Scientific Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "This seminar-style course is designed for residents of BU's Earth House. The course is intended to enrich student residents' living/learning experience through exploring the theory and practice of sustainability, with 7 Buswell Street serving as the principle object of inquiry. Through guided discussions and student-led research, we will examine the three pillars of sustainability - social, environmental, economic - across four resource domains of food, water, energy, and materials, and consider how these multiple pillars and domains overlap and interact as a nexus. Effective Fall 2019, this course fulfills a single unit in the following BU Hub area: Scientific Inquiry II."
   },
@@ -10662,7 +10662,7 @@
     "title": "Advanced Research Practicum",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy",
       "Writing-Intensive Course"
     ],
@@ -10775,7 +10775,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Models of decision-making in which the choices of different individuals interact: basic equilibrium notions in normal form games, including signaling games and repeated games. Applications include auctions, foreign policy, takeover bids, entry deterrence, cooperation and conflict, financial markets, and public goods. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Social Inquiry II, Critical Thinking."
@@ -10796,7 +10796,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Introduction to the field of information economics and its applications. Covers a wide range of situations in which players have access to different private information and this private information differently affects their incentives and strategic behavior. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Social Inquiry II, Critical Thinking."
@@ -10951,7 +10951,7 @@
     "title": "Archaeological Research Design and Materials Analysis",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking",
       "Teamwork/Collaboration"
     ],
@@ -11022,7 +11022,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Examines the behavior, ecology and morphology, physiology, classification, and evolution of birds. Flight, navigation, migration, territorial courtship, nesting, and parental behavior. Field trips. Three hours lecture, one hour discussion and demonstrations. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Scientific Inquiry II, Critical Thinking."
@@ -11105,7 +11105,7 @@
     "title": "Seminar: Sociology of Medicine",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy",
       "Writing-Intensive Course"
     ],
@@ -11192,7 +11192,7 @@
     "credits": "4 credits.",
     "units": [
       "Philosophical Inquiry and Life's Meanings",
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Oceanic nutrient and biogeochemical cycling in the context of the marine response to global change. Links between local and global scales are emphasized. Topics include oceanic productivity, iron limitation, oceanic glacial carbon dioxide budget, biogenic particle fluxes, oceanic glacial- interglacial biogeochemistry. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Philosophical Inquiry and Life's Meanings, Scientific Inquiry II, Research and Information Literacy."
@@ -11203,7 +11203,7 @@
     "credits": "4 credits.",
     "units": [
       "Philosophical Inquiry and Life's Meanings",
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Oceanic nutrient and biogeochemical cycling in the context of the marine response to global change. Links between local and global scales are emphasized. Topics include oceanic productivity, iron limitation, oceanic glacial carbon dioxide budget, biogenic particle fluxes, oceanic glacial- interglacial biogeochemistry. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Philosophical Inquiry and Life's Meanings, Scientific Inquiry II, Research and Information Literacy."
@@ -11214,7 +11214,7 @@
     "credits": "4 credits.",
     "units": [
       "Aesthetic Exploration",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Today trauma haunts soldiers returning from Iraq and Afghanistan. It afflicts the survivors of 9/11 and witnesses to the Boston Marathon bombings. It colors the lives of victims in the rape epidemic still unfolding on college campuses. It shapes the way we talk about race after the deaths of Michael Brown, etc. It is a lens through which we look at genocides past and present. And it provides new ways to read literature, view art, and watch television and film. This course is a co-taught, interdisciplinary seminar that explores the many ways ways that psychological trauma manifests itself. Effective Fall 2018, this course fulfills a single unit in the following BU Hub areas: Aesthetic Exploration, Social Inquiry II."
   },
@@ -11245,7 +11245,7 @@
     "credits": "4 credits.",
     "units": [
       "The Individual in Community",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Examines roles and methods of non-governmental organizations (NGOs) in social change and international development. Reviews theory and practice of NGOs in development, NGO strategies, and internal management. Students will engage directly with international development NGOs. Effective Spring 2020, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, The Individual in Community, Critical Thinking."
@@ -11256,7 +11256,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "You will understand the importance of strategic management in international business, primarily across the United Kingdom and Europe, as it relates to innovation, competition, differing business cultures, policy-directed systems of regulation, financial market shocks and shifting corporate ethics. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Global Citizenship and Intercultural Literacy, Social Inquiry II, Teamwork/Collaboration."
@@ -11352,7 +11352,7 @@
     "title": "Qualitative Research Strategies in Global Health",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "Qualitative research methods are increasingly used in public health, and provide valuable insights into the local perspectives of study populations. This course provides practical strategies and methods for using qualitative research and includes the basic assumptions, approach and rationale for making qualitative research decisions, framing qualitative research questions, and designing appropriate research strategies. Examples will be drawn from current global health issues. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Teamwork/Collaboration."
@@ -11442,7 +11442,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning I",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "For advanced undergraduates. Economics of risk, with a focus on financial markets. Topics include expected utility, portfolio choice and the capital asset pricing model, interest rates and monetary policy, the relation between the real economy and the stock market. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning I, Social Inquiry II."
   },
@@ -11535,7 +11535,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Senior capstone seminar dealing with the intellectual history of the discipline, research methods, concepts, and problems in archaeological theory, and the formulation of research designs. Effective Fall 2018 this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry I, Ethical Reasoning, Critical Thinking. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Global Citizenship and Intercultural Literacy, Critical Thinking."
@@ -11739,7 +11739,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "This course develops both conceptual knowledge and practical skills to identify the most appropriate and cost-effective global promotional strategies and develop and implement successfully such a strategy in an increasingly competitive and volatile global environment. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Global Citizenship and Intercultural Literacy, Critical Thinking."
@@ -11749,7 +11749,7 @@
     "title": "Deviance and Social Control",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy",
       "Writing-Intensive Course"
     ],
@@ -11820,7 +11820,7 @@
     "title": "American Grand Strategy",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "Traces the United States' engagement in world affairs by evaluating U.S. grand strategy - its theory of how to 'create' security for itself in an often-threatening world. Using history and theory, identifies changes in U.S. strategy and evaluates policies today. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Writing-Intensive Course."
@@ -11863,7 +11863,7 @@
     "title": "Ethnography and Anthropological Theory 2",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "Required of majors. Examines current anthropological theory and method. Discussion focuses on recent ethnographies and the anthropological debates they have provoked. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Writing-Intensive Course."
@@ -11873,7 +11873,7 @@
     "title": "Alliance Politics",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking",
       "Writing-Intensive Course"
     ],
@@ -11926,7 +11926,7 @@
     "credits": "4 credits.",
     "units": [
       "Philosophical Inquiry and Life's Meanings",
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "We'll read important scientific work in evolutionary theory, psychology, etc. about human cognition. We'll then explore its philosophical implications. For example, we'll use research in cognitive science to think about whether humans are irremediably tribal and sectarian. Scientific Inquiry I and Social Inquiry I are both prerequisites for this course. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Philosophical Inquiry and Life's Meanings, Scientific Inquiry II, Critical Thinking."
@@ -11980,7 +11980,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Covers selected topics in empirical research on music perception and cognition. These may include the cognitive processing of melody, harmony, rhythm, and timbre, the connection of music to emotion, computational study of musical corpora, the quantitative study of music performance, and the connection of music to other areas of human intelligence. Students learn to evaluate research articles, apply statistical models to musical and behavioral data, and propose their own studies. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Quantitative Reasoning II, Research and Information Literacy."
@@ -12084,7 +12084,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Examines human development in low- and middle-income countries from applied economics perspective. Topics include: (1) economic growth, inequality, and poverty; (2) health, nutrition, and education; (3) agriculture, environment, and resource management; and (4) social and political factors in economic development. Also offered as GRS IR 680 A1. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Quantitative Reasoning II, Critical Thinking."
@@ -12135,7 +12135,7 @@
     "title": "Geodynamics II: Fluids and Fluid Transport",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Critical Thinking"
     ],
@@ -12178,7 +12178,7 @@
     "title": "Seminar: Global Health: Politics, Institutions, and Ideology",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy",
       "Writing-Intensive Course"
     ],
@@ -12402,7 +12402,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "A course on formal theory, covering decision theory, game theory, and social choice theory. Topics include spatial models, electoral competition, bargaining, deterrence, and signaling models. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Quantitative Reasoning II, Critical Thinking."
@@ -12422,7 +12422,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Meets with CAS PO 561. Parties and party systems of Argentina, Bolivia, Brazil, Chile, Ecuador, Mexico, Peru, and Venezuela. Historical origins and labor incorporation. Populist, working-class, and hegemonic parties. Market reform and party system transformation or collapse. Ethnic parties, clientelism, rise of a new Left. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Global Citizenship and Intercultural Literacy, Social Inquiry II, Research and Information Literacy."
@@ -12442,7 +12442,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "Archaeology field school intense archaeological techniques and procedures. Direct involvement in field excavation, data recording, description and inventory of artifacts and specimens. Field, lab and lecture involvement; seven hours a day, five days a week. Locations around the world. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Social Inquiry II, Teamwork/Collaboration."
@@ -12480,7 +12480,7 @@
     "credits": "4 credits.",
     "units": [
       "Digital/Multimedia Expression",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Lecture/laboratory course that introduces students to a broad range of digital techniques for collecting, visualizing, and analyzing objects, spaces, and landscapes. In addition to technical lab instruction, the course presents a series of research questions and case studies that explore how digital techniques can be used to investigate the material dimensions of social life. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Digital/Multimedia Expression, Social Inquiry II, Research and Information Literacy."
@@ -12491,7 +12491,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "Examines why and how arms control, disarmament, and non-proliferation have become important issues in modern diplomacy. Analyzes the progress made in concluding global and regional agreements, verification and compliance techniques, and their role in post-Cold War security issues. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Writing-Intensive Course, Ethical Reasoning, Social Inquiry II."
@@ -12523,7 +12523,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Use of advanced computer (GIS) techniques to address regional archaeological problems.This applied course examines digital encoding and manipulation of archaeological and environmental data, and methods for testing hypotheses, analyzing, and modeling the archaeological record. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Social Inquiry II, Research and Information Literacy."
@@ -12636,7 +12636,7 @@
     "title": "The Psychology of Decision Making: Implications for Business and Public Policy",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "We provide an introduction to how individuals make decisions, applying the tools of psychology and economics. We will learn to identify common mistakes and biases. Students will have the opportunity to evaluate their own decision-making ability and learn how to make improved decisions. We link each aspect of decision-making studied to current personal finance decision, business problem & public policy issue. This course will improve negotiation ability and prepare students to use social science data to support decisions. The course consists of cases, discussions, lectures & project. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Critical Thinking."
@@ -12646,7 +12646,7 @@
     "title": "Introduction to the Atmospheric Boundary Layer",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Research and Information Literacy"
     ],
@@ -12731,7 +12731,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "Introduces the theory and method of the study of archaeological plant remains and basic botanical and ecological concepts. Highlights relationships between people and environments and the roles of plants in past societies. Laboratory sessions concentrate on quantitative analysis. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Quantitative Reasoning II, Critical Thinking."
@@ -12775,7 +12775,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning I",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Introduction to the study of archaeological animal bones. Provides theoretical background and methodological skills necessary for interpreting past human- animal interactions, subsistence, and paleoecology. Laboratory sections focus on skeletal identification. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Quantitative Reasoning I."
   },
@@ -12850,7 +12850,7 @@
     "title": "The State and Public Purpose in Asia",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking",
       "Writing-Intensive Course"
     ],
@@ -12901,7 +12901,7 @@
     "credits": "4 credits.",
     "units": [
       "Historical Consciousness",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "This course examines politics, history, and technologies surrounding nuclear weapons and nuclear energy. It analyzes the \"global atomic marketplace\" with a particular focus on the challenges and opportunities for nuclear proliferation and nonproliferation. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Social Inquiry II, Writing-Intensive Course."
@@ -12912,7 +12912,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking"
     ],
     "desc": "The course considers British perspectives on major challenges to health and wellbeing facing individuals and communities over the life course. You will develop skills in critical thinking about research and ethics in addressing such challenges through policy and practical initiatives. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Social Inquiry II, Critical Thinking."
@@ -12963,7 +12963,7 @@
     "credits": "4 credits.",
     "units": [
       "The Individual in Community",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "Exploration of the origins of and current trends in environmental justice activism and scholarship. Introduces empirical evidence of environmental (in)justice, links contemporary environmental problems to historical and broader political-economic processes, and explores a range of responses to environmental injustice. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Writing-Intensive Course, The Individual in Community, Social Inquiry II."
@@ -12984,7 +12984,7 @@
     "title": "Development in Historical Perspective",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "A critical investigation of modern \"development\" practices and projects in Asia, Africa, and the Americas. Explores the rise of development paradigms in the nineteenth century and key twentieth-century transformations; interrogates challenges to, critiques of, and reaffirmations of global development schemes. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Writing-Intensive Course, Social Inquiry II."
@@ -13048,7 +13048,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "Through an examination of historical, empirical, and journalistic evidence, students examine the peculiar and pernicious nature of modern and contemporary poverty in the context of two large democracies, India and the United States. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Writing-Intensive Course, Ethical Reasoning, Social Inquiry II."
@@ -13076,7 +13076,7 @@
     "title": "US Env Policy",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy",
       "Writing-Intensive Course"
     ],
@@ -13119,7 +13119,7 @@
     "credits": "4 credits.",
     "units": [
       "Oral and/or Signed Communication",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Journalism has been called \"the first rough draft of history.\" We consider several episodes from U.S. history and examine how the first drafts written by journalists compare to subsequent drafts written by historians. We analyze how new evidence and chronological distance alter understanding of important events. Four credits, fall semester. (Undergraduate Prerequisite: COM JO 150.) Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Oral and/or Signed Communication."
   },
@@ -13137,7 +13137,7 @@
     "title": "Ichthyology: Behavior, Ecology, and Evolution of Fish",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Creativity/Innovation"
     ],
     "desc": "A comprehensive introduction to fish biology and systematics. Emphasis on phylogenetic relationships, ecology, and behavior. Labs include morphological studies of specimens and behavioral studies of live fishes. This course is a prerequisite for the field course. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Creativity/Innovation."
@@ -13243,7 +13243,7 @@
     "credits": "4 credits.",
     "units": [
       "The Individual in Community",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "Students gain professional experience by working in teams on research projects that assist environmental and public health officials in achieving the missions of their agencies. Research areas may include solar energy, environmental justice, toxics, water quality, and lead poisoning. Effective Fall 2020, this course fulfills a single unit in each of the following Hub areas: Social Inquiry II, Teamwork/Collaboration, The Individual in Community."
@@ -13294,7 +13294,7 @@
     "title": "Coral Reef Dynamics: Shallow Waters, Deep Time",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Creativity/Innovation"
     ],
     "desc": "Tropical reefs-- diverse, complex, and ancient-- exhibit lawful cycles of growth, degradation, and regeneration. Explore these through observations on the Belize Barrier Reef in fossil reef environments and through laboratory experiments. Insights are applied to reef conservation in today's changing world. Also offered as CAS EE 539. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Creativity/Innovation."
@@ -13304,7 +13304,7 @@
     "title": "Coral Reef Dynamics: Shallow Waters, Deep Time",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Creativity/Innovation"
     ],
     "desc": "Tropical reefs-- diverse, complex, and ancient-- exhibit lawful cycles of growth, degradation, and regeneration. Explore these through observations on the Belize Barrier Reef in fossil reef environments and through laboratory experiments. Insights are applied to reef conservation in today's changing world. Also offered as BI 539. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Creativity/Innovation."
@@ -13325,7 +13325,7 @@
     "title": "Atmospheric Chemistry and Global Change",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II"
     ],
     "desc": "An introduction to the chemistry and physics of atmospheric pollution, and the impacts of air pollution on human welfare and the environment. Highlights the interactions between air quality, the biosphere, climate, and sustainable development. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Scientific Inquiry II."
@@ -13336,7 +13336,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "Explores rural life, land, and livelihoods in the Global South. Assesses challenges and effective strategies for building thriving rural communities that foster local well-being, sustainable ecosystems, food sovereignty, and broader regional development. Effective Spring 2020, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Writing-Intensive Course."
@@ -13356,7 +13356,7 @@
     "title": "Neuroethology",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Oral and/or Signed Communication",
       "Research and Information Literacy"
     ],
@@ -13367,7 +13367,7 @@
     "title": "Neuroethology",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Oral and/or Signed Communication",
       "Research and Information Literacy"
     ],
@@ -13399,7 +13399,7 @@
     "credits": "4 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "A rigorous introduction to the economic analysis of environmental policy, and to the implications of the special character of environmental problems for public decision making. Introduces the tools available to environmental policy makers, and develops quantitative frameworks for analyzing their effectiveness, advantages, and disadvantages. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Social Inquiry II, Research and Information Literacy."
@@ -13428,7 +13428,7 @@
     "title": "The State and Public Purpose in Asia ",
     "credits": "4 credits.",
     "units": [
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Critical Thinking",
       "Writing-Intensive Course"
     ],
@@ -13479,7 +13479,7 @@
     "title": "Evolutionary Medicine",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Oral and/or Signed Communication",
       "Teamwork/Collaboration"
     ],
@@ -13500,7 +13500,7 @@
     "title": "The Evolution of the Human Diet",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy",
       "Writing-Intensive Course"
     ],
@@ -13581,7 +13581,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "Parties and party systems of Argentina, Bolivia, Brazil, Chile, Ecuador, Mexico, Peru, and Venezuela. Historical origins and labor incorporation. Populist, working-class, and hegemonic parties. Market reform and party system transformation or collapse. Ethnic parties, clientelism, rise of a new Left. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Global Citizenship and Intercultural Literacy, Social Inquiry II, Research and Information Literacy."
@@ -13624,7 +13624,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Teamwork/Collaboration"
     ],
     "desc": "Offers historical and comparative examination of industrialization and globalization in the contemporary world. Focusing on rising powers, the course examines different waves of industrialization, immigration, and globalization, as well as the business-state relations in different regions and nations. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Global Citizenship and Intercultural Literacy, Social Inquiry II, Teamwork/Collaboration."
@@ -13655,7 +13655,7 @@
     "credits": "4 credits.",
     "units": [
       "Oral and/or Signed Communication",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Creativity/Innovation"
     ],
     "desc": "Students will investigate the history, subspecialties, pedagogy, and research in history education for middle and high school, as related to historical thinking, literacy, and problem solving. Students will develop an understanding of historical literacy, historical thinking, inquiry, and problem solving. Students will develop competencies in developing and presenting research-based history lessons. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Oral and/or Signed Communication, Creativity/Innovation."
@@ -13696,7 +13696,7 @@
     "title": "Tropical Marine Invertebrates",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Creativity/Innovation"
     ],
     "desc": "Explores the diversity of marine invertebrates, including body plans, feeding biology, reproductive strategies, and developmental programs. Field biodiversity surveys and behavioral studies in shallow water tropical marine environments, especially seagrass beds and mangrove. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Scientific Inquiry II, Creativity/Innovation."
@@ -13750,7 +13750,7 @@
     "credits": "4 credits.",
     "units": [
       "Global Citizenship and Intercultural Literacy",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Writing-Intensive Course"
     ],
     "desc": "Reading of major ethnographies and modern histories as a basis for examining changing Taiwanese and Chinese culture and society. Attention to ethnography as a genre, as well as to the dramatic changes of the past century. (Counts towards the East Asian Studies minor.) Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Writing-Intensive Course, Global Citizenship and Intercultural Literacy, Social Inquiry II."
@@ -13955,7 +13955,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Provides an overview of key concepts, actors, concerns, and issues in global environmental policy and negotiations. Investigates the larger picture of the intertwined relationships among natural, political, economic, and social systems that shape environmental policy-making. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Social Inquiry II."
   },
@@ -13965,7 +13965,7 @@
     "credits": "4 credits.",
     "units": [
       "Ethical Reasoning",
-      "Social Inquiry II"
+      "Social/Scientific Inquiry II"
     ],
     "desc": "Provides an overview of key concepts, actors, concerns, and issues in global environmental policy and negotiations. Investigates the larger picture of the intertwined relationships among natural, political, economic, and social systems that shape environmental policy-making. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Social Inquiry II."
   },
@@ -13983,7 +13983,7 @@
     "title": "Methods in Biological Anthropology",
     "credits": "4 credits.",
     "units": [
-      "Scientific Inquiry II",
+      "Social/Scientific Inquiry II",
       "Quantitative Reasoning II",
       "Teamwork/Collaboration"
     ],
@@ -14083,7 +14083,7 @@
     "credits": "3 credits.",
     "units": [
       "Quantitative Reasoning II",
-      "Social Inquiry II",
+      "Social/Scientific Inquiry II",
       "Research and Information Literacy"
     ],
     "desc": "This course is designed to introduce students to scientific literature on music preparation, music performance, and related topics. It is designed as a readings course in selected topics with an introduction to statistical methods and methods of experimental design, flexible in response to the background of students and subjects of interest to them. Previous offerings have enrolled only music students from a variety of degree programs (Performance DMAs, Composition DMAs, Theory MMs, and undergraduates). This version of the course may be cross-listed with the new undergraduate HUB course in Music Perception and Cognition, MT472, and therefore will only enroll graduate students and remains a three-credit course to best fit into current graduate programs. 3cr Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Quantitative Reasoning II, Research and Information Literacy."
