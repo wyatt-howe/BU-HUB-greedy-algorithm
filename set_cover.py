@@ -74,7 +74,6 @@ def filter_units(G, units):
 #
 
 def filter_schools(G, schools):
-    print(schools)
     return list(filter(lambda e : any(map(lambda school : school in e['number'], schools)), G))
 
 
@@ -85,7 +84,29 @@ vvv  Modify the code below to get a recommendation  vvv
 
 # Load the catalog and remove unneeded units.  Example: I have already completed my philosophy unit.
 catalog = json.load(open(CATALOG_PATH))
-catalog = filter_units(catalog, ['Philosophical Inquiry and Life\'s Meanings'])  # Ignore all of these units.
+catalog = filter_units(catalog, [
+    # 'Critical Thinking',
+    # 'Ethical Reasoning',
+    "Philosophical Inquiry and Life's Meanings",
+    # 'Creativity/Innovation',
+    # 'Global Citizenship and Intercultural Literacy',
+    # 'Aesthetic Exploration',
+    # 'Social Inquiry I',
+    # 'Historical Consciousness',
+    # 'Teamwork/Collaboration',
+    # 'Quantitative Reasoning I',
+    # 'Scientific Inquiry I',
+    # 'The Individual in Community',
+    # 'Quantitative Reasoning II',
+    # 'Scientific Inquiry II',
+    # 'Research and Information Literacy',
+    # 'Social Inquiry II',
+    # 'Digital/Multimedia Expression',
+    # 'Oral and/or Signed Communication',
+    # 'First-Year Writing Seminar',
+    # 'Writing-Intensive Course',
+    # 'Writing, Research, and Inquiry'
+])  # Ignore all of these units.
 catalog = filter_schools(catalog, ['CAS', 'CFA', 'CGS', 'ENG', 'KHC'])  # Accept classes from any of these schools.
 
 # init mutables
