@@ -3,14 +3,14 @@ import random
 
 CATALOG_PATH = 'catalog/catalog_sorted.json'
 
-catalog = json.load(open(CATALOG_PATH))
+catalog_descriptions = json.load(open(CATALOG_PATH))
 
 #
 # Retrieve a course's full description from it's number, e.g. "CAS CH 182".
 #
 
 def lookup(num: str):
-    return next(filter(lambda e : e['number'] == num, catalog))
+    return next(filter(lambda e : e['number'] == num, catalog_descriptions))
 
 #
 # Implementation of the greedy algorithm for set covering.
