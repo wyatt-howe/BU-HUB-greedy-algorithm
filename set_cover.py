@@ -69,12 +69,13 @@ def filter_units(G, units):
         , e['units']))} for e in G
     ], units[1:]) if len(units) else G
 
-def filter_school(G, units):
-    return filter_units([
-        {'number': e['number'], 'units': list(filter( \
-            lambda s : not s == units[0] \
-        , e['units']))} for e in G
-    ], units[1:]) if len(units) else G
+#
+# Only allow classes from a list of specific schools
+#
+
+def filter_schools(G, schools):
+    print(schools)
+    return list(filter(lambda e : any(map(lambda school : school in e['number'], schools)), G))
 
 
 
@@ -84,10 +85,10 @@ vvv  Modify the code below to get a recommendation  vvv
 
 # Load the catalog and remove unneeded units.  Example: I have already completed my philosophy unit.
 catalog = json.load(open(CATALOG_PATH))
-catalog = filter_units(catalog, ['Philosophical Inquiry and Life\'s Meanings'])
-catalog = filter_school(catalog, ['CAS'])
+catalog = filter_units(catalog, ['Philosophical Inquiry and Life\'s Meanings'])  # Ignore all of these units.
+catalog = filter_schools(catalog, ['CAS', 'CFA', 'CGS', 'ENG', 'KHC'])  # Accept classes from any of these schools.
 
-# init mutablesx
+# init mutables
 courses = list(range(len(catalog)))
 dump = ''
 
